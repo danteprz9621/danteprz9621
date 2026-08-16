@@ -55,3 +55,9 @@ mostly around a fictional "Trailhead Travel" support bot I use as a testbed for 
 
 ![Dante's GitHub stats](https://github-readme-stats.vercel.app/api?username=danteprz9621&show_icons=true&theme=default)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danteprz9621)
+
+---
+
+### Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danteprzlpz/)
