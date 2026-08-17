@@ -3,6 +3,8 @@
 SDET focused on **test automation and AI/LLM evaluation** — building the tooling that catches
 bugs and bad model behavior before your users do.
 
+🧰 Mobile/Web E2E · UI · API testing
+
 🌎 Mexico · 🥨 Working from home
 
 ---
