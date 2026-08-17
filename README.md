@@ -53,7 +53,6 @@ mostly around a fictional "Trailhead Travel" support bot I use as a testbed for 
 
 ### Stats
 
-![Dante's GitHub stats](https://github-readme-stats.vercel.app/api?username=danteprz9621&show_icons=true&theme=default)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danteprz9621)
 
 ---
